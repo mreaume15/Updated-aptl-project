@@ -1,0 +1,36 @@
+main {
+    border: solid 1px cadetblue;
+    border-radius: 4%;
+
+}
+
+body {}
+
+.links {
+
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.infobox {
+
+    display: flex;
+    text-align: right;
+}
+
+button {
+    padding: 12px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+fieldset {
+    background-color: rgb(185, 236, 253);
+}
